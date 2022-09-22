@@ -2,11 +2,11 @@
 #include <stdio.h>
 
 /**
- * cap_string - ...
- * @s: ...
- *
- * Return: char value
- */
+  * cap_string - ...
+  * @s: ...
+  *
+  * Return: char value
+  */
 char *cap_string(char *s)
 {
 	int a = 0, i;
@@ -29,11 +29,4 @@ char *cap_string(char *s)
 	}
 
 	return (s);
-}	
-
-
-
-
-
-
-
+}
