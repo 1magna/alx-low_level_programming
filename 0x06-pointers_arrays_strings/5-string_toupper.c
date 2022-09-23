@@ -21,4 +21,4 @@ char *string_toupper(char *p)
 	}
 
 	return (p);
-}	
+}
