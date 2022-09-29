@@ -28,7 +28,7 @@ int find_strlen(char *s)
  * @len: The length of s.
  * @index: The index of the string to be checked.
  * Return: If the string is a palindrome - 1.
- * 		If the string is not a palindrome - 0.
+ *         If the string is not a palindrome - 0.
  */
 
 int check_palindrome(char *s, int len, int index)
@@ -46,7 +46,7 @@ int check_palindrome(char *s, int len, int index)
  * is_palindrome - Checks if a string is a palindrome.
  * @s: The string to be checked.
  * Return: If the string is a palindrome - 1.
- * 		If the string is not a palindrome - 0.
+ *         If the string is not a palindrome - 0.
  */
 
 int is_palindrome(char *s)
