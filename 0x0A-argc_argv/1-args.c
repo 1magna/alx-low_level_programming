@@ -2,10 +2,11 @@
 #include "main.h"
 
 /**
- * main - print the name of the program
- * @argc: Count arguments
- * @argc: Count arguments
+ * main - prints the number of arguments
+ * @argc: number of arguments
+ * @argc:array of arguments
  *
+ * Return: the number of arguments
  * Return: Always 0 (Success)
  */
 
