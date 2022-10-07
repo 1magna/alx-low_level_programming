@@ -19,7 +19,7 @@ int _putchar(char c);
  *              and exits with 98
  *
  * Return: Error 98 and exit(98)
- */
+*/
 
 int error_exit(void)
 {
@@ -40,7 +40,7 @@ int error_exit(void)
  * @str: string to check
  *
  * Return: 0 is true 1 if false
- */
+*/
 
 int check_number(char *str)
 {
@@ -59,7 +59,7 @@ int check_number(char *str)
  * @str: string to get length of
  *
  * Return: length of string
- */
+*/
 
 int _length(char *str)
 {
